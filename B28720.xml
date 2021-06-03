@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for the taking off the tax of 5s per chaldron on coals.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28720</idno><idno type="EEBO-CITATION">99894194</idno>
+  <idno type="VID">190240</idno>
+  <idno type="EEBO-PROQUEST">2240928760</idno>
+  
+            <idno type="STC">Wing R519D</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.12[89]</idno>
+            <idno type="STC">ESTC T215550</idno>
+            <idno type="PROQUEST">ocm99894194</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99894194e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28720)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190240)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C19:1[89])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for the taking off the tax of 5s per chaldron on coals.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>between 1699 and 1701?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Another edition substitutes "five shillings" for "5s" in the title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coal --  Taxation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Coal trade --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190240:1"/>
+            <head>Reasons for the Taking off the Tax of <hi>5s per</hi> Chaldron on Coals.</head>
+            <p>AS the Tax is laid, <hi>To carry on a War against</hi> France, and all in this Kingdom receive Protection thereby, it is but reasonable they should contribute thereto; but instead therereof about Nine Tenths of the People are Excused, they burning such Coals, Wood, <hi>&amp;c.</hi> as are not by it affected: Which layeth the Burthen upon so small a part of the Trading People, that one Tradesman payeth more to this Tax than an hundred Gentlemen of ten times his Estate, living in In-land Counties; which hath caused such continual Complaints: Some of which are as followeth.</p>
+            <p n="1">I. The Owners of Shipping, many of which are Tradesmen, being discou<g ref="char:EOLhyphen"/>raged through the great Taxes that are laid on Coals, Ships, <hi>&amp;c.</hi> with other Charges belonging thereto, Coals amounts to 1 <hi>l</hi> 14 <hi>s</hi> 5 <hi>d per London</hi> Chaldron, before deliver'd in the Pool, as appears by a Printed Case, delivered the last Sessi<g ref="char:EOLhyphen"/>ons of Parliament: And they finding by these Discouragements that People in the adjacent Counties to the River of <hi>Thames,</hi> and other Navigable Rivers, fall upon Burning Wood, Turff, <hi>&amp;c.</hi> in great Quantities, which formerly burnt Coals. And likewise there being in a great Storm about Two hundred Sail of their Ships lost, discourageth the Owners from Venturing to Sea. So that those Masters that lost their Ships, by Reason of the Discouragement aforesaid, want Employment, and many of the Coal-Ships are sent to other Places; which has been chiefly occasioned by this said Tax. All this will much lessen the Importation of Coals, and prevent the Breeding of Seamen, for want of Building Ships, to make the aforesaid great Loss, and other Losses, both before and since, Good.</p>
+            <p n="2">II. The poor Seamen, Watermen, Fishermen, <hi>&amp;c.</hi> that burn Coals, though it should be but one Chaldron each Family <hi>per</hi> Year; yet they being Impressed to Man the Navy Royal, there Wages being 23 <hi>s per</hi> Month, which is but 14 <hi>l,</hi> 19 <hi>s. per</hi> Year, out of which 40 <hi>s</hi> for Coals, and 3 <hi>l</hi> or 4 <hi>l per</hi> Year for House-Rent, the remainder cannot maintain their Families they leave behind them, but they must want; which proveth an Addition to their Hardship, and is a great Discouragement to some of the most Serviceable People of the Kingdom, who are so constantly exposed for its Defence at Sea.</p>
+            <p n="3">III. The Brewers; Some of them burn Four or Five hundred Chaldron of Coals a Year: Which said Tax will lye hard upon them, together with the great Duty of Excise, and they paying to other Taxes their <hi>Quota,</hi> as well as others which pay nothing to this, seemeth exceeding hard, and, its feared, hath and will be, if not prevented, a means to cause them so little to boil their Drink, sold about this City and Suburbs, that it may cause Distempers among the People.</p>
+            <p n="4">IV. Likewise the Glassmen of <hi>London,</hi> who have by their Ingenuity arrived to such a degree of Perfection in their Art, that <hi>English</hi> Glass hath the Preference: But by this Tax both upon Coals and Glass, it's fear'd, will prove not only a Discouraging their Market at home, but also to its Vent in Foreign Markets, and prove hurtful to the Endeavours of other of aur <hi>English</hi> Mechanicks hereaf<g ref="char:EOLhyphen"/>ter, to out-vie other Nations in their respective Arts also.</p>
+            <p n="5">V. The Dyers, burn great Quantities of Coals, and cannot dye the Wool<g ref="char:EOLhyphen"/>len Manufacture of this Kingdom so cheap as they might if the Tax were off; which will be a means to hinder our Merchants from Selling at other Markets as cheap as other Merchants; and thereby will give the <hi>Dutch</hi> Opportunity to under<g ref="char:EOLhyphen"/>sell us, they having their Coals from <hi>Newcastle,</hi> &amp;c. and pay, if carried in our <hi>English</hi> Ships, but 3 <hi>s per</hi> Chaldron for the same we pay 10 <hi>s,</hi> or thereabouts to this very Tax, besides other Charges: All which tendeth to the Discourage<g ref="char:EOLhyphen"/>ment of our <hi>English</hi> Woollen Manifacture, as well as to the Trades, <hi>&amp;c.</hi> aforesaid.</p>
+            <p>
+               <hi>And therefore it is hoped this House will take the multitude of Complaints, of this Tax, in<g ref="char:EOLhyphen"/>to their serious Consideration, and ease the Traders and Poor of this great City and Suburbs from this Hardship.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:190240:2"/>
+            <p>Reasons for Taking off the Tax of Five Shillings <hi>per</hi> Chaldron on Coals.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
